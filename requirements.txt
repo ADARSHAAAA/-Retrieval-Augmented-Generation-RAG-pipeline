@@ -1,0 +1,29 @@
+
+
+# Web app frameworks
+streamlit
+fastapi
+uvicorn
+
+# LangChain core stack
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-chroma
+google-generativeai
+tiktoken
+
+# Vector store
+chromadb
+
+# Document loaders
+pypdf                  # Using PyPDFLoader from langchain_community
+python-docx            # For DOCX
+beautifulsoup4         # For HTML
+
+# API & backend utilities
+pydantic
+requests
+python-multipart
+python-dotenv
